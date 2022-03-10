@@ -186,7 +186,7 @@ background-color: #385E1D;
 
 .secondbtn{
 text-decoration:none;
-    color: #385E1D;
+    color: #1295D0;
     font-weight: 600;
 }
 
@@ -230,12 +230,7 @@ display: inline-block;}
 padding-left: 0.2em;
 vertical-align: middle;}
 
-.weekly_challenges{
-    background-color: #385E1D;
-    color: white;
-    padding-top: 0.5em;
-    margin-top: 1em;
-}
+
 .header_block{
     font-weight: 700;
     font-size: 40px;
@@ -245,13 +240,7 @@ vertical-align: middle;}
     padding-bottom: 1em;
     font-size: 30px;
 }
-.leaderboard{
-    text-align: center;
-    align-content: center;
-    margin-left: auto;
-    margin-right: auto;
-    padding-bottom: 1.5em;
-}
+
 .panel{
     height:60%;
     border-radius: 135px;
