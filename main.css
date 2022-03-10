@@ -181,21 +181,7 @@ background-color: #385E1D;
     border: none;
     margin-left: 1em;
 }
-.button{
-    text-align: center;
-    width:80%;
-border-radius:350px;
-padding-top:20px;
-padding-bottom:20px;
-vertical-align: middle;
-color: white;
-background-color: #385E1D;
-    font-weight: 600;
-    outline: none;
-    border: none;
-    margin-top: 0.45em;
-    display: block;
-}
+
 
 
 .secondbtn{
